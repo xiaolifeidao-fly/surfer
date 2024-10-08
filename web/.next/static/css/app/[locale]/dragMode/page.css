@@ -1,0 +1,144 @@
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[3]!./node_modules/less-loader/dist/cjs.js??ruleSet[1].rules[11].oneOf[9].use[4]!./src/components/Layout/index.module.less ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.index_logo__sszBb {
+  margin: 16px;
+  display: inline-block;
+  width: calc(100% - 42px);
+  font-weight: bold;
+  font-size: 18px;
+  background-color: rgba(73, 82, 123, 0.3);
+  padding: 6px 12px 8px;
+  color: #fff;
+  border-radius: 6px;
+  text-align: center;
+}
+.index_rightControl__SS5VJ {
+  display: flex;
+  margin-left: auto;
+  margin-right: 26px;
+}
+.index_rightControl__SS5VJ .index_avatar__9GKHd {
+  cursor: pointer;
+}
+.index_rightControl__SS5VJ .index_theme__nBTWj,
+.index_rightControl__SS5VJ .index_msg__seZKm,
+.index_rightControl__SS5VJ .index_group__F_lvi,
+.index_rightControl__SS5VJ .index_i18n__Lwkoh {
+  margin-right: 26px;
+  cursor: pointer;
+}
+
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[3]!./node_modules/less-loader/dist/cjs.js??ruleSet[1].rules[11].oneOf[9].use[4]!./src/components/Canvas/index.less ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.index_canvasWrap___zQOe {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border: 1px dashed #264deb;
+  border-radius: 6px;
+}
+.index_canvasWrap___zQOe .index_canvas__XyeiF {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.index_canvasWrap___zQOe .index_canvas__XyeiF .index_item__5lmM_ {
+  position: absolute;
+  display: inline-block;
+  border-radius: 5px;
+  width: 40px;
+  height: 40px;
+  color: #333;
+  line-height: 40px;
+  text-align: center;
+}
+.index_canvasWrap___zQOe .index_canvas__XyeiF .index_item__5lmM_ img {
+  width: 100%;
+}
+.index_canvasWrap___zQOe .index_canvas__XyeiF #cube_holder_block {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border: 2px dashed #0e69f1;
+  transition: all 0.1s;
+  border-radius: 6px;
+  display: none;
+  pointer-events: none;
+}
+.index_toolBar__dFclb {
+  position: relative;
+  z-index: 100;
+}
+.index_sizeWrap__xy8PC .index_defaultWrap__Smv0m {
+  display: flex;
+  flex-wrap: wrap;
+}
+.index_sizeWrap__xy8PC .index_defaultWrap__Smv0m .index_item__5lmM_ {
+  margin: 10px;
+  text-align: center;
+}
+.index_sizeWrap__xy8PC .index_defaultWrap__Smv0m .index_item__5lmM_ .index_icon__a_cRy {
+  margin-bottom: 2px;
+  display: block;
+  width: 80px;
+  height: 52px;
+  line-height: 52px;
+  border: 1px solid #eee;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.index_sizeWrap__xy8PC .index_defaultWrap__Smv0m .index_item__5lmM_ .index_icon__a_cRy + span {
+  font-size: 12px;
+}
+.index_sizeWrap__xy8PC .index_defaultWrap__Smv0m .index_item__5lmM_ .index_icon__a_cRy:hover {
+  border-color: #264deb;
+}
+.index_sizeWrap__xy8PC .index_defaultWrap__Smv0m .index_item__5lmM_ .index_icon__a_cRy:hover + span {
+  color: #264deb;
+}
+
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[3]!./node_modules/less-loader/dist/cjs.js??ruleSet[1].rules[11].oneOf[9].use[4]!./src/app/[locale]/dragMode/index.module.less ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.index_editWrap__cBfqC {
+  position: relative;
+}
+.index_editWrap__cBfqC .index_toolbar__SjFCF {
+  background: #ffffff;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+  box-shadow: 2px 0 2px rgba(0, 0, 0, 0.1);
+}
+.index_editWrap__cBfqC .index_toolbar__SjFCF .index_innerToolBar__qMV_z {
+  width: 100%;
+  max-width: 100%;
+  margin: 0px auto 0px;
+}
+.index_editWrap__cBfqC .index_toolbar__SjFCF .index_innerToolBar__qMV_z .index_item__h5dkG {
+  margin: 0 10px;
+  font-size: 14px;
+  cursor: pointer;
+  vertical-align: middle;
+}
+.index_editWrap__cBfqC .index_toolbar__SjFCF .index_innerToolBar__qMV_z .index_item__h5dkG > svg {
+  margin-top: 2px;
+  width: 20px;
+  height: 20px;
+}
+@media screen and (max-width: 900px) {
+  .index_editWrap__cBfqC .index_toolbar__SjFCF {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+  .index_editWrap__cBfqC .index_toolbar__SjFCF .index_innerToolBar__qMV_z {
+    width: 100%;
+    max-width: 100%;
+    margin: 0px auto 0px;
+  }
+}
+

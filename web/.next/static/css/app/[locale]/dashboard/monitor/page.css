@@ -1,0 +1,66 @@
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[3]!./node_modules/less-loader/dist/cjs.js??ruleSet[1].rules[11].oneOf[9].use[4]!./src/components/Layout/index.module.less ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.index_logo__sszBb {
+  margin: 16px;
+  display: inline-block;
+  width: calc(100% - 42px);
+  font-weight: bold;
+  font-size: 18px;
+  background-color: rgba(73, 82, 123, 0.3);
+  padding: 6px 12px 8px;
+  color: #fff;
+  border-radius: 6px;
+  text-align: center;
+}
+.index_rightControl__SS5VJ {
+  display: flex;
+  margin-left: auto;
+  margin-right: 26px;
+}
+.index_rightControl__SS5VJ .index_avatar__9GKHd {
+  cursor: pointer;
+}
+.index_rightControl__SS5VJ .index_theme__nBTWj,
+.index_rightControl__SS5VJ .index_msg__seZKm,
+.index_rightControl__SS5VJ .index_group__F_lvi,
+.index_rightControl__SS5VJ .index_i18n__Lwkoh {
+  margin-right: 26px;
+  cursor: pointer;
+}
+
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[3]!./node_modules/less-loader/dist/cjs.js??ruleSet[1].rules[11].oneOf[9].use[4]!./src/app/[locale]/dashboard/monitor/index.module.less ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.index_monitorWrap__nTQBn .index_content__6XV9A {
+  display: flex;
+  flex-wrap: wrap;
+  min-height: calc(100vh - 200px);
+}
+.index_monitorWrap__nTQBn .index_content__6XV9A .index_card__poH_a {
+  position: relative;
+  margin-right: 16px;
+  margin-bottom: 16px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  border-radius: 6px;
+  background: rgba(238, 239, 247, 0.2);
+  min-width: 300px;
+}
+.index_monitorWrap__nTQBn .index_content__6XV9A .index_card__poH_a canvas {
+  width: 100% !important;
+  height: 280px !important;
+}
+.index_monitorWrap__nTQBn .index_content__6XV9A .index_card__poH_a .moveBtn {
+  position: absolute;
+  visibility: hidden;
+  right: 10px;
+  top: 10px;
+  cursor: move;
+  z-index: 99;
+  color: #959494;
+}
+.index_monitorWrap__nTQBn .index_content__6XV9A .index_card__poH_a:hover .moveBtn {
+  visibility: visible;
+}
+

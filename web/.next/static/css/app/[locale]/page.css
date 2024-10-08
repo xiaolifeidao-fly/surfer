@@ -1,0 +1,43 @@
+/*!****************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./src/app/[locale]/page.module.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************/
+.page_home__w9TOW {
+    padding-top: 160px;
+    text-align: center;
+    background: rgba(0,0,0,.05) url('/bg.svg');
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.page_content__8geRE {
+    width: 60%;
+    margin: 30px auto;
+    padding: 20px 20px 40px;
+    border-radius: 6px;
+    background-color: #fff;
+}
+
+.page_content__8geRE p {
+    margin-bottom: 30px;
+}
+
+.page_timeBox___Fa8S {
+    display: inline-block;
+    width: 40%;
+}
+
+@media screen and (max-width: 600px) {
+    /* CSS rules */
+    .page_content__8geRE {
+        width: 90%;
+        margin: 30px auto;
+        padding: 10px 10px 20px;
+    }
+    .page_home__w9TOW {
+        padding-top: 60px;
+    }
+    .page_timeBox___Fa8S {
+        width: 60%;
+    }
+}
